@@ -2,7 +2,7 @@
   "name": "personal-web",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://thirumalateja03.github.io/personal-web",
+  "homepage": "https://thirumalateja03.github.io/personal-web/",
   "dependencies": {
     "autoprefixer": "^10.4.20",
     "cra-template": "1.2.0",
